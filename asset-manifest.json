@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Stripe/static/css/main.f0f854d1.chunk.css",
+    "main.js": "/Stripe/static/js/main.7030680e.chunk.js",
+    "main.js.map": "/Stripe/static/js/main.7030680e.chunk.js.map",
+    "runtime-main.js": "/Stripe/static/js/runtime-main.9172a40f.js",
+    "runtime-main.js.map": "/Stripe/static/js/runtime-main.9172a40f.js.map",
+    "static/js/2.ee6c1972.chunk.js": "/Stripe/static/js/2.ee6c1972.chunk.js",
+    "static/js/2.ee6c1972.chunk.js.map": "/Stripe/static/js/2.ee6c1972.chunk.js.map",
+    "index.html": "/Stripe/index.html",
+    "static/css/main.f0f854d1.chunk.css.map": "/Stripe/static/css/main.f0f854d1.chunk.css.map",
+    "static/js/2.ee6c1972.chunk.js.LICENSE.txt": "/Stripe/static/js/2.ee6c1972.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Stripe/static/media/hero.acf1e00e.svg",
+    "static/media/logo.6ad422bb.svg": "/Stripe/static/media/logo.6ad422bb.svg",
+    "static/media/phone.94a7a4fe.svg": "/Stripe/static/media/phone.94a7a4fe.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9172a40f.js",
+    "static/js/2.ee6c1972.chunk.js",
+    "static/css/main.f0f854d1.chunk.css",
+    "static/js/main.7030680e.chunk.js"
+  ]
+}
